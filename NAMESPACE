@@ -1,0 +1,1 @@
+export(AFM, gen.fst, gen.theta)
