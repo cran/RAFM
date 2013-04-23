@@ -1,10 +1,9 @@
-09e15cb500de18a4eeb260e6eb4f89fe *DESCRIPTION
+5f0f4237362865ff115910d5e2db45c7 *DESCRIPTION
 abdf073e13b7cff213700d1a8c5ed3b4 *NAMESPACE
-1f765d07e17b687b93120d5c330a21b9 *R/AFM.R
+f3a7ada0ed3bbda548858ca483fa2541 *R/AFM.R
 85bf9248bd094141f46d3a7c63ddde8b *R/CDFTruncatedBeta.R
 954da6b5276744a8855eeb616ff8fd0c *R/RandomDirichlet.R
 424cf132ac62351cdbdc34b849feddb3 *R/RandomTruncatedBeta.R
-836695d09d6ab42eda769bbdf255e129 *R/adjust.prop.R
 f541688eefa210d8f9cb1fe1d275ea38 *R/adjust.this.R
 d874dae7947e647af08f9259f6d2b963 *R/compress.data.R
 a9e5f7ccba80f8441d30ab669536baaf *R/ddirtrunc.R
@@ -19,10 +18,6 @@ bd33c11f6ac9625bd702fa8a95202116 *R/logBeta.R
 3312d9b3358824442c20a8c58173dc0d *R/logPDFDirichlet.R
 9135958861b50b3736f63f8df0a53ace *R/logPDFTruncatedBeta.R
 646e78f78e4d9cc89f58e186fe83e160 *R/rdirtrunc.R
-c124ba9fa6738203bc1095690366579d *R/updatealpha.R
-92150f9eece0bbb2496055edfceddab5 *R/updateanc.R
-4c6fc5113e762b53813b3a32728270f4 *R/updatekap.R
-3650db41f6c62ce3b6d5df750449fec4 *R/updatez.R
 8653c59e7cd6189c42f5c4c20f6fa0f0 *data/shrews.rda
 2df9c3dbf57e14c70f1a3950a345002a *data/specimen.rda
 e62370c29fba76ad1ce3aef80b7da32b *data/sticklebacks.rda
